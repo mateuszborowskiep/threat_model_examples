@@ -42,3 +42,4 @@ graph TD
     class K8s,ACR,KeyVault,AAD,Jenkins,TerraformCloud,ExtAuth,Artifactory internal;
     class Backend,Frontend,Kafka,ES,Prometheus,Grafana internal;
     class KeyVault,AAD criticalAsset;
+```
